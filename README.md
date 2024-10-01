@@ -4,12 +4,12 @@
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-### STUDIES👨‍🏫
+### STUDIES
 
 -FINANCE & ACCOUNTING DEGREE
 
 
-### LANGUAGES🇪🇸🇺🇸
+### LANGUAGES
 
 - Spanish
 - Valencian
@@ -19,4 +19,5 @@
 
 > *pending...*
 
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
+<p>Have a good day!</p>
+<div><img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
